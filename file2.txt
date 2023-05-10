@@ -1,2 +1,4 @@
 This if file 2.
-No changes made yet.
+Line 2: modified Line
+
+Line 4: Add new line
